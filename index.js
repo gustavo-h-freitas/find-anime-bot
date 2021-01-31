@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const client = new Discord.Client()
-const token = 'ODAyMjE1NTg5Mzc2NTU3MTE3.YAr_fA.nsAIgkEUYtLKdNFiDCR78q_rkY8'
+const token = 'tokenGoesHere'
 const axios = require('axios')
 
 client.on('ready', () => {
